@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favourite things:
+1. ML
+2. CV
+3. AI
