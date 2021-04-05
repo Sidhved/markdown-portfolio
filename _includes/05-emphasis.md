@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Content Writing Intern
+2. Management Team, Google DSC VIT Bhopal
+3. Content Writing Team, AI Club
